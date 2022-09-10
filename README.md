@@ -15,9 +15,7 @@ Usefull in development time to know environment virables and other informations.
 
 Not recommended to leave on production environments, with public access.
 
-> ## *1) Site Overview*
-
----------------------
+## 1) Site Overview
 
 <br/>
 
