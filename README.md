@@ -19,7 +19,7 @@ Not recommended to leave on production environments, with public access.
 
 <br/>
 
-- The main site exposes information about your infrastructure in a clean and easy table. 
+- The home site exposes information about your infrastructure in a clean and easy table. 
 
 <br/>
 
@@ -27,4 +27,8 @@ Not recommended to leave on production environments, with public access.
 
 <br/>
 
+- Client site exposes information about client (browser) that is accessing the site, as well some client informations that is available in code.
+
 <br/>
+
+![Overview](images/server-info-2.png)
