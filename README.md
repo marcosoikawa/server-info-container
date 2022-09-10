@@ -14,3 +14,19 @@ Usefull in development time to know environment virables and other informations.
 
 
 Not recommended to leave on production environments, with public access.
+
+> ## *1) Site Overview*
+
+---------------------
+
+<br/>
+
+- The main site exposes information about your infrastructure in a clean and easy table. 
+
+<br/>
+
+![Overview](images/server-info-1.png)
+
+<br/>
+
+<br/>
